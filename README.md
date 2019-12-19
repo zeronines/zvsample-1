@@ -9,7 +9,7 @@ Environment:
 
 The tar file is too big for GitHub.  To download the package, issue the following command from the Ubuntu Server
 
-wget http://downloads.zerodownsoftware.com/zvsampled/zvsample-ASDK-build.tar.gz
+wget https://downloads.zerodownsoftware.com/zvsampled/zvsample-ASDK-build.tar.gz
 
 Unpack the file:  
 
